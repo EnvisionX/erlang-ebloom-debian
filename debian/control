@@ -1,0 +1,15 @@
+Source: erlang-ebloom
+Section: devel
+Priority: extra
+Maintainer: Aleksey Morarash <aleksey.morarash@envisionx.co>
+Build-Depends: debhelper (>= 8.0.0), erlang-base, rebar, erlang-eunit
+Standards-Version: 3.9.3
+Homepage: https://github.com/basho/ebloom
+Vcs-Browser: https://github.com/basho/ebloom
+Vcs-Git: https://github.com/basho/ebloom.git
+
+Package: erlang-ebloom
+Architecture: all
+Depends: erlang-base
+Description: Erlang NIF wrapper around a basic bloom filter
+ Erlang NIF wrapper around a basic bloom filter.

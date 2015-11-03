@@ -1,0 +1,14 @@
+--- a/Makefile
++++ b/Makefile
+@@ -3,9 +3,9 @@
+ all: compile test
+ 
+ compile:
+-	@./rebar compile
++	rebar compile
+ 
+ clean:
+-	./rebar clean
++	rebar clean
+ 
+ include tools.mk

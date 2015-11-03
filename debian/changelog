@@ -1,0 +1,5 @@
+erlang-ebloom (2.0.0-1) unstable; urgency=low
+
+  * Initial release for Debian Jessie.
+
+ -- Aleksey Morarash <aleksey.morarash@envisionx.co>  Tue, 03 Nov 2015 11:48:00 +0200

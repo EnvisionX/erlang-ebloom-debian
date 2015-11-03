@@ -1,0 +1,2 @@
+ebin/* /usr/lib/erlang/lib/ebloom-2.0.0/ebin
+priv/*.so /usr/lib/erlang/lib/ebloom-2.0.0/priv
